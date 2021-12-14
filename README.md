@@ -1,4 +1,4 @@
-# Sam Judd's Submission Notes
+# Usage
 Here is the curl request to GET all items in `store` table:
 
 ``` curl -X GET "http://localhost:8000/stores/" ```
